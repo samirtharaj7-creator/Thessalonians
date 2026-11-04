@@ -1,0 +1,65 @@
+{
+  "key": "thessalonians",
+  "title": "Thessalonians Study",
+  "domain": "thessalonians.mybibleexplorer.com",
+  "totalVerses": 136,
+  "totalChapters": 8,
+  "books": [
+    {
+      "slug": "1-thessalonians",
+      "name": "1 Thessalonians",
+      "verseCounts": [
+        10,
+        20,
+        13,
+        18,
+        28
+      ]
+    },
+    {
+      "slug": "2-thessalonians",
+      "name": "2 Thessalonians",
+      "verseCounts": [
+        12,
+        17,
+        18
+      ]
+    }
+  ],
+  "backgroundSections": [
+    [
+      "pauline-authorship",
+      "Pauline Authorship"
+    ],
+    [
+      "date-and-place-of-writing",
+      "Date and Place of Writing"
+    ],
+    [
+      "thessalonica-and-its-world",
+      "Thessalonica and Its World"
+    ],
+    [
+      "the-founding-and-makeup-of-the-church",
+      "The Founding and Makeup of the Church"
+    ],
+    [
+      "pauls-mission-to-thessalonica",
+      "Paul's Mission to Thessalonica"
+    ],
+    [
+      "why-paul-wrote-1-thessalonians",
+      "Why Paul Wrote 1 Thessalonians"
+    ],
+    [
+      "why-paul-wrote-2-thessalonians",
+      "Why Paul Wrote 2 Thessalonians"
+    ],
+    [
+      "how-the-letters-fit-together",
+      "How the Letters Fit Together"
+    ]
+  ],
+  "timelineSection": "pauls-mission-to-thessalonica",
+  "finalSection": "how-the-letters-fit-together"
+}
